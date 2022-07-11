@@ -36,6 +36,10 @@
   @include textFormatter($font-display, 1.6rem, 400, normal);
 }
 
+.heading-4-italic {
+  @include textFormatter($font-display, 1.6rem, 400, italic);
+}
+
 .para-primary {
     @include textFormatter($font-primary, 1.5rem, 400, normal);
 }

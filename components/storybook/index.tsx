@@ -1,14 +1,18 @@
-import Colors from "./colors"
+import Loaders from "./loaders"
+import Theme from "./theme"
 import TypingEffect from "./typing-effect"
-import Typography from "./typography"
 
 const StoryBook = () => {
     return <>
+    <div>
+        <Loaders />
+    </div>
     <div className="pad-xl">
         <TypingEffect />
     </div>
-    <Typography />
-    <Colors />
+    <div>
+        <Theme />
+    </div>
     </>
 }
 

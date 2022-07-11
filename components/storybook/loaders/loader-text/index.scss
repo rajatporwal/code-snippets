@@ -1,0 +1,28 @@
+.text {
+    position: absolute;
+    top: 200%;
+    left: 0;
+    right: 0;
+    width: 4rem;
+    margin: auto;
+    @include textFormatter($font-display, 1.6rem, 400, italic);
+  }
+  .text:after {
+    content: "Loading";
+    animation: loading-text 3s infinite;
+  }
+
+@keyframes loading-text {
+    0% {
+      content: "Loading";
+    }
+    25% {
+      content: "Loading.";
+    }
+    50% {
+      content: "Loading..";
+    }
+    75% {
+      content: "Loading...";
+    }
+  }

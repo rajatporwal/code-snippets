@@ -35,12 +35,9 @@ const Loaders = () => {
       style={{
         position: "relative",
         height: "150px",
-        display: "flex",
-        justifyContent: "center",
-        marginTop: "100px",
       }}
     >
-      <div style={{ position: "absolute" }}>
+      <div style={{ position: "absolute", marginLeft: '45%' }}>
         <LoaderText />
       </div>
     </div>

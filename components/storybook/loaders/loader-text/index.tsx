@@ -1,7 +1,7 @@
 const LoaderText = () => {
   return (
-    <div className="laoder-text">
-      <span className="text"></span>
+    <div className="loader-text">
+      <span className="loader-text__text"></span>
     </div>
   );
 };

@@ -6,14 +6,16 @@
     "start": "next start"
   },
   "dependencies": {
-    "@rajatporwal/react-component-library": "^1.0.5",
+    "@rajatporwal/react-component-library": "^1.0.8",
     "date-fns": "^2.11.1",
     "gray-matter": "^4.0.2",
     "next": "latest",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "remark-html": "^15.0.0",
-    "sass": "^1.53.0"
+    "sass": "^1.53.0",
+    "sass-loader": "^13.0.2",
+    "style-loader": "^3.3.1"
   },
   "devDependencies": {
     "@types/node": "^16.3.3",

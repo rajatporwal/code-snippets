@@ -1,5 +1,7 @@
+import Typography from "../components/storybook/theme/typography";
+
 const Home = () => {
-  return <div>Next JS with React</div>;
+  return <div><Typography /></div>;
 };
 
 export default Home;

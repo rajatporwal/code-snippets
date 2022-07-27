@@ -6,7 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@rajatporwal/react-component-library": "^1.0.8",
+    "@rajatporwal/react-component-library": "^1.0.9",
     "date-fns": "^2.11.1",
     "gray-matter": "^4.0.2",
     "next": "latest",

@@ -72,10 +72,10 @@
   resolved "https://registry.yarnpkg.com/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-12.2.3.tgz#403e1575a84c31cbd7f3c0ecd51b61bc25b7f808"
   integrity sha512-huSNb98KSG77Kl96CoPgCwom28aamuUsPpRmn/4s9L0RNbbHVSkp9E6HA4yOAykZCEuWcdNsRLbVVuAbt8rtIw==
 
-"@rajatporwal/react-component-library@^1.0.8":
-  version "1.0.8"
-  resolved "https://npm.pkg.github.com/download/@rajatporwal/react-component-library/1.0.8/588a12b925cd8bf61c19540229985ce0806f7b3834185ff9b5908c65605cf932#864d40ca191fc469f291af87c378402e1cc441eb"
-  integrity sha512-FfOcPqDrMMLq098iz50Il1MVeY8HrX5mUr2xzZglCLSm+PCGCDM26VgrcTspF0yhGOhlPnxcDViJUCyq8p1agw==
+"@rajatporwal/react-component-library@^1.0.9":
+  version "1.0.9"
+  resolved "https://npm.pkg.github.com/download/@rajatporwal/react-component-library/1.0.9/a3f0f7d19003e640e423a781fd567cb915790644e136d4e48cdb713b6c64addb#64418905f9fda287bb5b6975a8a092e35d5f5a58"
+  integrity sha512-qy3yVHBuckSb0YKT6oHPIojojjzkVRqsP0edLKHI8sBUL3Rw+sHkkxZmql/4oT3sCUeKGS/4YwmP3d4c1aW+eg==
 
 "@swc/helpers@0.4.3":
   version "0.4.3"
